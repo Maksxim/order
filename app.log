@@ -1,0 +1,108 @@
+2022-11-02 15:23:02 INFO OrderRepository: Method create was called
+2022-11-02 15:23:02 INFO OrderService: Order was created: 1
+2022-11-02 15:23:02 INFO OrderService: Method addItem was called with orderId=1, productId=1, count=3
+2022-11-02 15:23:02 INFO ProductService: Method getProduct was called with productId=1
+2022-11-02 15:23:02 INFO ProductRepository: Method getById was called with productId=1
+2022-11-02 15:55:04 INFO OrderRepository: Method create was called
+2022-11-02 15:55:04 INFO OrderService: Order was created: 1
+2022-11-02 15:55:04 INFO OrderService: Method addItem was called with orderId=1, productId=1, count=3
+2022-11-02 15:55:04 INFO ProductService: Method getProduct was called with productId=1
+2022-11-02 15:55:04 INFO ProductRepository: Method getById was called with productId=1
+2022-11-02 16:04:09 INFO ProductRepository: Method create was called
+2022-11-02 16:04:09 INFO ProductService: Product was created: 1
+2022-11-02 16:04:09 INFO ProductRepository: Method create was called
+2022-11-02 16:04:09 INFO ProductService: Product was created: 2
+2022-11-02 16:04:09 INFO ProductService: Method delete was called
+2022-11-02 16:04:09 INFO ProductRepository: Method delete was called
+2022-11-02 16:04:09 INFO ProductRepository: Method getById was called with productId=2
+2022-11-02 16:04:09 INFO ProductRepository: Method create was called
+2022-11-02 16:04:09 INFO ProductService: Product was created: 3
+2022-11-02 16:04:09 INFO ProductService: Method updateProduct was called with product=Product{id=1, description='iphone 14', price=900.0}
+2022-11-02 16:04:09 INFO ProductRepository: update was called for productId=1
+2022-11-02 16:04:09 INFO ProductRepository: Method getById was called with productId=1
+2022-11-02 16:04:09 INFO OrderRepository: Method create was called
+2022-11-02 16:04:09 INFO OrderService: Order was created: 1
+2022-11-02 16:04:09 INFO OrderService: Method addItem was called with orderId=1, productId=1, count=3
+2022-11-02 16:04:09 INFO ProductService: Method getProduct was called with productId=1
+2022-11-02 16:04:09 INFO ProductRepository: Method getById was called with productId=1
+2022-11-02 16:04:09 INFO OrderService: Method getOrder was called with orderId=1
+2022-11-02 16:04:09 INFO OrderRepository: Method getById was called with orderId=1
+2022-11-02 16:04:09 INFO OrderRepository: update was called for orderId=1
+2022-11-02 16:04:09 INFO OrderRepository: Method getById was called with orderId=1
+2022-11-02 16:04:09 INFO OrderService: Method addItem was called with orderId=1, productId=2, count=2
+2022-11-02 16:04:09 INFO ProductService: Method getProduct was called with productId=2
+2022-11-02 16:04:09 INFO ProductRepository: Method getById was called with productId=2
+2022-11-02 16:07:34 INFO ProductRepository: Method create was called
+2022-11-02 16:07:35 INFO ProductService: Product was created: 1
+2022-11-02 16:07:35 INFO ProductRepository: Method create was called
+2022-11-02 16:07:35 INFO ProductService: Product was created: 2
+2022-11-02 16:07:35 INFO ProductService: Method delete was called
+2022-11-02 16:07:35 INFO ProductRepository: Method delete was called
+2022-11-02 16:07:35 INFO ProductRepository: Method getById was called with productId=2
+2022-11-02 16:07:35 INFO ProductRepository: Method create was called
+2022-11-02 16:07:35 INFO ProductService: Product was created: 3
+2022-11-02 16:07:35 INFO ProductService: Method updateProduct was called with product=Product{id=1, description='iphone 14', price=900.0}
+2022-11-02 16:07:35 INFO ProductRepository: update was called for productId=1
+2022-11-02 16:07:35 INFO ProductRepository: Method getById was called with productId=1
+2022-11-02 16:07:35 INFO OrderRepository: Method create was called
+2022-11-02 16:07:35 INFO OrderService: Order was created: 1
+2022-11-02 16:07:35 INFO OrderService: Method addItem was called with orderId=1, productId=1, count=3
+2022-11-02 16:07:35 INFO ProductService: Method getProduct was called with productId=1
+2022-11-02 16:07:35 INFO ProductRepository: Method getById was called with productId=1
+2022-11-02 16:07:35 INFO OrderService: Method getOrder was called with orderId=1
+2022-11-02 16:07:35 INFO OrderRepository: Method getById was called with orderId=1
+2022-11-02 16:07:35 INFO OrderRepository: update was called for orderId=1
+2022-11-02 16:07:35 INFO OrderRepository: Method getById was called with orderId=1
+2022-11-02 16:07:35 INFO OrderService: Method addItem was called with orderId=1, productId=3, count=5
+2022-11-02 16:07:35 INFO ProductService: Method getProduct was called with productId=3
+2022-11-02 16:07:35 INFO ProductRepository: Method getById was called with productId=3
+2022-11-02 16:07:35 INFO OrderService: Method getOrder was called with orderId=1
+2022-11-02 16:07:35 INFO OrderRepository: Method getById was called with orderId=1
+2022-11-02 16:07:35 INFO OrderRepository: update was called for orderId=1
+2022-11-02 16:07:35 INFO OrderRepository: Method getById was called with orderId=1
+2022-11-02 16:07:35 INFO OrderService: Method finishOrder was called with orderId=1
+2022-11-02 16:07:35 INFO OrderService: Method getOrder was called with orderId=1
+2022-11-02 16:07:35 INFO OrderRepository: Method getById was called with orderId=1
+2022-11-02 16:07:35 INFO OrderRepository: update was called for orderId=1
+2022-11-02 16:07:35 INFO OrderRepository: Method getById was called with orderId=1
+2022-11-02 16:07:35 INFO OrderService: Method getOrder was called with orderId=1
+2022-11-02 16:07:35 INFO OrderRepository: Method getById was called with orderId=1
+2022-11-02 16:10:05 INFO ProductRepository: Method create was called
+2022-11-02 16:10:05 INFO ProductService: Product was created: 1
+2022-11-02 16:10:05 INFO ProductRepository: Method create was called
+2022-11-02 16:10:05 INFO ProductService: Product was created: 2
+2022-11-02 16:10:05 INFO ProductService: Method delete was called
+2022-11-02 16:10:05 INFO ProductRepository: Method delete was called
+2022-11-02 16:10:05 INFO ProductRepository: Method getById was called with productId=2
+2022-11-02 16:10:05 INFO ProductRepository: Method create was called
+2022-11-02 16:10:05 INFO ProductService: Product was created: 3
+2022-11-02 16:10:05 INFO ProductService: Method updateProduct was called with product=Product{id=1, description='iphone 14', price=900.0}
+2022-11-02 16:10:05 INFO ProductRepository: update was called for productId=1
+2022-11-02 16:10:05 INFO ProductRepository: Method getById was called with productId=1
+2022-11-02 16:10:05 INFO OrderRepository: Method create was called
+2022-11-02 16:10:05 INFO OrderService: Order was created: 1
+2022-11-02 16:10:05 INFO OrderService: Method addItem was called with orderId=1, productId=1, count=3
+2022-11-02 16:10:05 INFO ProductService: Method getProduct was called with productId=1
+2022-11-02 16:10:05 INFO ProductRepository: Method getById was called with productId=1
+2022-11-02 16:10:05 INFO OrderService: Method getOrder was called with orderId=1
+2022-11-02 16:10:05 INFO OrderRepository: Method getById was called with orderId=1
+2022-11-02 16:10:05 INFO OrderRepository: update was called for orderId=1
+2022-11-02 16:10:05 INFO OrderRepository: Method getById was called with orderId=1
+2022-11-02 16:10:05 INFO OrderService: Method addItem was called with orderId=1, productId=2, count=2
+2022-11-02 16:10:05 INFO ProductService: Method getProduct was called with productId=2
+2022-11-02 16:10:05 INFO ProductRepository: Method getById was called with productId=2
+2022-11-02 16:10:05 ERROR OrderService: Product id=2 not found.
+2022-11-02 16:10:05 INFO OrderService: Method addItem was called with orderId=1, productId=3, count=5
+2022-11-02 16:10:05 INFO ProductService: Method getProduct was called with productId=3
+2022-11-02 16:10:05 INFO ProductRepository: Method getById was called with productId=3
+2022-11-02 16:10:05 INFO OrderService: Method getOrder was called with orderId=1
+2022-11-02 16:10:05 INFO OrderRepository: Method getById was called with orderId=1
+2022-11-02 16:10:05 INFO OrderRepository: update was called for orderId=1
+2022-11-02 16:10:05 INFO OrderRepository: Method getById was called with orderId=1
+2022-11-02 16:10:05 INFO OrderService: Method finishOrder was called with orderId=1
+2022-11-02 16:10:05 INFO OrderService: Method getOrder was called with orderId=1
+2022-11-02 16:10:05 INFO OrderRepository: Method getById was called with orderId=1
+2022-11-02 16:10:05 INFO OrderRepository: update was called for orderId=1
+2022-11-02 16:10:05 INFO OrderRepository: Method getById was called with orderId=1
+2022-11-02 16:10:05 INFO OrderService: Method getOrder was called with orderId=1
+2022-11-02 16:10:05 INFO OrderRepository: Method getById was called with orderId=1
